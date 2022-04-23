@@ -1,0 +1,5 @@
+D:\dnt\practical7\practical7\bin\practical7.dll
+D:\dnt\practical7\practical7\bin\practical7.pdb
+D:\dnt\practical7\practical7\obj\Debug\ResolveAssemblyReference.cache
+D:\dnt\practical7\practical7\obj\Debug\practical7.dll
+D:\dnt\practical7\practical7\obj\Debug\practical7.pdb
